@@ -98,8 +98,4 @@ Prediction: Heart Disease Detected
 
 Amadou Sidibe
 
-Purdue University – Civil Engineering
-
-MBA – Indiana University
-
 Aspiring AI/ML Technical Program Manager
